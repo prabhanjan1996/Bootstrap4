@@ -53,3 +53,29 @@ body{
     background-color: #facb23e0;
     color: #0f0f0f;
 }
+.card-header1{
+    background-color: #f3f1eae0;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.row-contents{
+    background-color: rgb(24, 6, 128);
+}
+.modal-header
+{
+    background-color: #512DAB;
+    color: white;
+}
+.modal-body{
+    background-color: #c7bce4;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
